@@ -62,7 +62,7 @@ We expect many more applications. Accepted participants commit to attend the cou
 - [**someone**]() - affiliation
 - [**someone**]() - affiliation
 
-### Organisers
+### Organizers
 
 - **Vincenza Colonna** - ELIXIR-IT
 - **Loredana Le Pera** - ELIXIR-IT (Training Coordinator Deputy) - CNR-IBPM/CNR-IBIOM
