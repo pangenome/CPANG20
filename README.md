@@ -52,15 +52,12 @@ We expect many more applications. Accepted participants commit to attend the cou
 ### Instructors
 
 - [**Erik Garrison**]() - University of California Santa Cruz 
-- [**Someone**]() - 
 
 ### Helpers
 
 - [**Flavia Villani**]() - University of California Santa Cruz 
 - [**Simon Heumos**]() - afflilation 
 - [**Andrea Guarracino**]() - affiliation
-- [**someone**]() - affiliation
-- [**someone**]() - affiliation
 
 ### Organizers
 
