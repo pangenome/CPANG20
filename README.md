@@ -55,9 +55,9 @@ We expect many more applications. Accepted participants commit to attend the cou
 
 ### Helpers
 
-- [**Flavia Villani**]() - University of California Santa Cruz 
-- [**Simon Heumos**]() - afflilation 
-- [**Andrea Guarracino**]() - affiliation
+- [**Flavia Villani**](https://github.com/Flavia95)-National Research Council, Institute of Genetics and Biophysics Adriano Buzzati-Traverso, Napoli,Italy;
+- [**Simon Heumos**](https://github.com/subwaystation)-Quantitative Biology Center (QBiC), University of Tübingen,Tübingen, Germany;
+- [**Andrea Guarracino**](https://github.com/AndreaGuarracino)-Centre for Molecular Bioinformatics, Department of Biology, University Of Rome Tor Vergata, Rome,Italy;
 
 ### Organizers
 
